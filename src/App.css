@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/* .container{
+    
+} */
+.first_heading{
+    margin-left: 50%;
+}
+.sec_heading{
+    margin-left: 25%;
+}
+
+.third_heading{
+    margin-left: 30%;
+}
+.fourth_heading{
+    margin-left: 65%;
+    margin-top: -65px;
+}
+.table{
+    width:15%;
+    margin-left: 25%;
+}
+.table2{
+    width: 15%;
+    margin-left: 60%;
+}
+.h2_heading{
+    margin-left: 25%;
+    margin-top: 8%;
+}
+
+.login{
+    margin-left: 30%;
+}
+.email{
+    margin-left: 32%;
+}
+/* .first_butt{
+    margin-left: 40%;
+    margin-bottom: -70px;
+} */
+.password{
+    margin-left: 32%;
+}
+.sign{
+    margin-left: 33%;
+}
+.signup{
+    margin-left: 60%;
+    margin-top: -9%;
+}
+.f_name{
+    margin-left: 60%;
+}
+.s_name{
+    margin-left: 60%;
+}
+.email2{
+    margin-left: 60%;
+}
+.password2{
+    margin-left: 60%;
+}
+
+
+
